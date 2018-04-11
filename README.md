@@ -9,7 +9,7 @@ La sécrétaire demande gérer les médecins et elle peut voir le dernier rappor
 
 ![alt tag]()
 
-![alt tag]()
+![alt tag](https://user-images.githubusercontent.com/37068099/38561996-cae77956-3cd9-11e8-8151-88e88c97f784.png)
 
 #### Activités du portefeuille de compétences
 - Participation à un projet d’évolution d’un SI
